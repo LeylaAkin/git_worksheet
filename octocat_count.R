@@ -1,5 +1,5 @@
 # to count the lines in octocat.txt
-#It happens
+#uh oh
 octocat = readLines("./octocat.txt")
 
 length(octocat)
